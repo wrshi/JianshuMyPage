@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "SWRNavigetionController.h"
 
 @interface AppDelegate ()
 

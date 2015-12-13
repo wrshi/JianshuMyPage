@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SWRTableViewController.h
 //  JianshuMyPage
 //
 //  Created by Weiran Shi on 2015-12-06.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SWRTableViewController : UITableViewController
 
 @end
-
